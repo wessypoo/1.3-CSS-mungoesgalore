@@ -1,0 +1,23 @@
+div { 
+    background: rgb(240, 144, 144); 
+    display: block;
+}
+span { 
+    color: rgba(0, 255, 0, 0.5); 
+    display : inline;
+}
+span { background: hsl(240, 69%, 47%); }
+
+.greentext { 
+    color: hsl(120, 100%, 45%); 
+    font-weight: bold;}
+
+.mangoes {
+    padding: 8px;
+    border: 2px solid #e36464;
+}
+
+#thosewhoknow {
+    background: rgb(88, 110, 175);
+    padding: 2px 4px;
+}
